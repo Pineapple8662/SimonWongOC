@@ -11,8 +11,6 @@
 
 @interface ViewController ()
 
-@property (nonatomic, strong) UITableView *tableView;
-
 @end
 
 @implementation ViewController
@@ -20,7 +18,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor randomColor];
-    self.tableView = [UITableView alloc] initWithFrame:CGRectZero style:(UITableViewStyle)
+    
+
+
 }
 
 @end
