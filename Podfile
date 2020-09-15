@@ -15,6 +15,7 @@ def common_pods
   pod 'Masonry'
   pod 'MBProgressHUD'
   pod 'MJRefresh'
+  pod 'pop'
   pod 'ReactiveObjC'
   pod 'RTRootNavigationController'
   pod 'STPopup'

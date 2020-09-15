@@ -11,3 +11,4 @@ ${BUILT_PRODUCTS_DIR}/RTRootNavigationController/RTRootNavigationController.fram
 ${BUILT_PRODUCTS_DIR}/ReactiveObjC/ReactiveObjC.framework
 ${BUILT_PRODUCTS_DIR}/STPopup/STPopup.framework
 ${BUILT_PRODUCTS_DIR}/YTKNetwork/YTKNetwork.framework
+${BUILT_PRODUCTS_DIR}/pop/pop.framework
