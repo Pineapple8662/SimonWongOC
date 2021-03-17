@@ -417,14 +417,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F7DN526L25;
-				GCC_PREFIX_HEADER = /Users/Admin/Desktop/SimonWongOC/SimonWongOC/Headers/PrefixHeader.pch;
+				DEVELOPMENT_TEAM = HM5CC3QJN3;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SimonWongOC/Headers/PrefixHeader.pch";
 				INFOPLIST_FILE = SimonWongOC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SimonWong.SimonWongOC;
+				PRODUCT_BUNDLE_IDENTIFIER = com.simonwong.simonwongOC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -436,14 +436,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F7DN526L25;
-				GCC_PREFIX_HEADER = /Users/Admin/Desktop/SimonWongOC/SimonWongOC/Headers/PrefixHeader.pch;
+				DEVELOPMENT_TEAM = HM5CC3QJN3;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SimonWongOC/Headers/PrefixHeader.pch";
 				INFOPLIST_FILE = SimonWongOC/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SimonWong.SimonWongOC;
+				PRODUCT_BUNDLE_IDENTIFIER = com.simonwong.simonwongOC;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
